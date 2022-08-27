@@ -15,7 +15,7 @@ Anadolu Teknik Programı / Bilişim Teknolojileri Alanı / Web Programcılığı
 <p>Bilgisayar, Yazılım, Kodlama ve Elektroniğe ilgim ve merakım vardır.</p>
 <br/>
 
-
+<a href="https://www.linkedin.com/in/muhammedhamzatas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </body>
 </html> 
