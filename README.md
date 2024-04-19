@@ -10,7 +10,7 @@ Anadolu Teknik Programı / Bilişim Teknolojileri Alanı / Web Programcılığı
 </p>
 <br/>
 <p>Samsun Ondokuz Mayıs Üniversitesi / VezirKöprü Meslek Yüksek Okulu / Uzaktan Eğitim (UZEM) (ÖnLisans) 
-<br/>İnternet ve Ağ Teknolojileri Alanı Okuyorum.</p>
+<br/>İnternet ve Ağ Teknolojileri Alanından Mezun Oldum.</p>
 <br/>
 <p>Bilgisayar, Yazılım, Kodlama ve Elektroniğe ilgim ve merakım vardır.</p>
 <br/>
